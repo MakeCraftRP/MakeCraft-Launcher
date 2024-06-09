@@ -5,7 +5,7 @@
     "description": "Launcher de MakeCraftRP",
     "main": "src/app.js",
     "author": "ZeroxarZ",
-    "settings": "https://api.makecraftrp.com/Panel",
+    "settings": "https://api.makecraftrp.com/paneladmin",
     "engines": {
         "node": "16.x.x"
     },
