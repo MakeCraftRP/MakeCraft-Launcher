@@ -89,10 +89,11 @@ body {
 
 .title-settings {
     text-align: center;
-    font: arial 20px/25px Apocalyps;
+    font-family: 'arial';
+    font-size: 30px;
+    font-weight: bold;
     color: #F1F1F1;
     margin: 2% 0;
-
 }
 
 .center-align {
@@ -152,10 +153,9 @@ body {
 
 .account {
     display: inline-block;
-    background: #00bd7a;
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #00bd7a;
-    font: normal normal bold 30px/40px Poppins;
+    background: rgb(253, 40, 40);
+    opacity: 0.7;
+    font-family: 'arial';
     width: 500px;
     height: 100px;
     margin: 1% 2%;
@@ -164,9 +164,7 @@ body {
 }
 
 .account:hover {
-    background: #006e47;
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #006e47;
+    scale: 0.99;
 }
 
 .account-image {

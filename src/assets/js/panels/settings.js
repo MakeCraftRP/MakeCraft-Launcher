@@ -53,7 +53,7 @@ class Settings {
             document.querySelector(".play-btn").style.boxShadow = "none";
             document.querySelector(".play-btn").textContent = "Indisponible";
         } else {
-            document.querySelector(".play-btn").style.backgroundColor = "#00bd7a";
+            document.querySelector(".play-btn").style.backgroundColor = "#b9e5ff";
             document.querySelector(".play-btn").style.pointerEvents = "auto";
             document.querySelector(".play-btn").style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.2)";
             document.querySelector(".play-btn").textContent = "Jouer";
