@@ -89,9 +89,10 @@ body {
 
 .title-settings {
     text-align: center;
-    font: normal normal bold 20px/25px Apocalyps;
+    font: arial 20px/25px Apocalyps;
     color: #F1F1F1;
     margin: 2% 0;
+
 }
 
 .center-align {
