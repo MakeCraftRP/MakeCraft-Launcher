@@ -47,6 +47,7 @@ class Launcher {
             const presence = {
                 details: this.config.rpc_details,
                 state: this.config.rpc_state,
+                startTimestamp: new Date(),
                 largeImageKey: 'image',
                 largeImageText: this.config.rpc_large_text,
                 smallImageKey: 'compass',
